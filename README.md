@@ -6,6 +6,8 @@
 - 👯 I’m looking to collaborate with startup
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to dance and reading Intelligence Agencies books!
+- 💬 Ask me about anything [here](https://github.com/mohitjayant/mohitjayant/issues/new)
+
 
 ### Connect with me:
 
@@ -34,7 +36,7 @@
 <br />
 
 ---
-
+![Mohit GitHub statistic](https://github-readme-stats.vercel.app/api?username=mohitjayant&show_icons=true)
 
 [website]: http://students.iitr.ac.in/16113052/
 [twitter]: https://twitter.com/mohit__jayant
