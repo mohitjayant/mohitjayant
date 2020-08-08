@@ -18,8 +18,17 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cplusplus.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
 
 <br />
 <br />
