@@ -36,7 +36,7 @@
 <br />
 
 ---
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohitjayant&show_icons=true&theme=radical)
 
 [website]: http://students.iitr.ac.in/16113052/
 [twitter]: https://twitter.com/mohit__jayant
