@@ -36,7 +36,7 @@
 <br />
 
 ---
-![Mohit GitHub statistic](https://github-readme-stats.vercel.app/api?username=mohitjayant&show_icons=true)
+![Mohit GitHub statistic](<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohitjayant&show_icons=true&include_all_commits=true&theme=radical" alt="Mohit's github stats" />)
 
 [website]: http://students.iitr.ac.in/16113052/
 [twitter]: https://twitter.com/mohit__jayant
