@@ -9,25 +9,26 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />][github_acc]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mohit.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mohit | YouTube" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />][github_acc]
+[<img align="left" alt="mohit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="mohit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mohit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="mohit | Instagram" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" />][instagram]
 
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cplusplus.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/spring.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/hibernate.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/sqlite.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/git.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/eclipseide.svg" />][website]
+[<img align="left" alt="mohit.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/cplusplus.svg" />][website]
+[<img align="left" alt="mohit.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
+[<img align="left" alt="mohit.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" />][website]
+[<img align="left" alt="mohit.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" />][website]
+[<img align="left" alt="mohit.com" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/spring.svg" />][website]
+[<img align="left" alt="mohit.com" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/hibernate.svg" />][website]
+[<img align="left" alt="mohit.com" width="27px" src="https://github.com/gilbarbara/logos/blob/master/logos/sqlite.svg" />][website]
+[<img align="left" alt="mohit.com" width="27px" src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs.svg" />][website]
+[<img align="left" alt="mohit.com" width="27px" src="https://github.com/gilbarbara/logos/blob/master/logos/git.svg" />][website]
+[<img align="left" alt="mohit.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/eclipseide.svg" />][website]
 
 <br />
 <br />
