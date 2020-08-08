@@ -22,13 +22,12 @@
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/csharp.svg" />][website]
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/java.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/spring.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/hibernate.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/sqlite.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/gilbarbara/logos/blob/master/logos/nodejs.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" />][website]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/eclipseide.svg" />][website]
 
 <br />
 <br />
