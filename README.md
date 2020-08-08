@@ -14,7 +14,7 @@
 [<img align="left" alt="mohit | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="mohit | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="mohit | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="mohit | Instagram" width="22px" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/gmail.svg" />][instagram]
+
 
 <br />
 
