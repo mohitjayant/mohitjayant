@@ -1,4 +1,4 @@
-### Hi there, I'm Mohit - [mohitjayant][website] 👋
+### Hi there, I'm [Mohit][website] 👋
 
 ## I'm Passionate about algorithmic problems, Software development and Back-end Development!
 - 🔭 I’m currently working as Software Engineer!
