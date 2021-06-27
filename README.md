@@ -39,7 +39,7 @@
 ![Mohit's github stats](https://github-readme-stats.vercel.app/api?username=mohitjayant&show_icons=true&theme=radical)
 ![Mohit's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mohitjayant&layout=compact&theme=radical)
 
-[website]: http://students.iitr.ac.in/16113052/
+[website]: https://mohitjayant.github.io/mohit-dev-portfolio/
 [twitter]: https://twitter.com/mohit__jayant
 [github_acc]: https://github.com/mohitjayant
 [instagram]: https://www.instagram.com/mohit__jayant/
