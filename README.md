@@ -59,7 +59,7 @@ I am a **Software Engineer** specializing in high-concurrency distributed system
 ### ⚡ Let's Build Something Together
 💡 **Open to:** Direct Startup Contributions · Core Backend Development · System Design Consulting
 
-Having hands-on experience engineering production-level platforms like JyotishConnect from the ground up, I understand the agility, precision, and robust architecture required for early-stage products. If you are a startup founder or team looking for a dedicated backend engineer to contribute to your codebase and vision, let's connect!
+Having hands-on experience engineering production-level platforms from the ground up, I understand the agility, precision, and robust architecture required for early-stage products. If you are a startup founder or team looking for a dedicated backend engineer to contribute to your codebase and vision, let's connect!
 
 - 🌐 **Portfolio:** [mohitjayant.github.io/mohit-dev-portfolio/](https://mohitjayant.github.io/mohit-dev-portfolio/)
 - 📧 **Email:** [mkumar5@ce.iitr.ac.in](mailto:mkumar5@ce.iitr.ac.in)
